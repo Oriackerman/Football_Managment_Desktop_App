@@ -1,0 +1,111 @@
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\mongocrypt.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Football_Managment.exe.config
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Football_Managment.exe
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Football_Managment.pdb
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\AWSSDK.Core.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\DnsClient.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\MongoDB.Bson.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\MongoDB.Driver.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\SharpCompress.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Snappier.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Buffers.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Memory.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Security.AccessControl.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\ZstdSharp.dll
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\AWSSDK.Core.pdb
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\AWSSDK.Core.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\DnsClient.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\MongoDB.Bson.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\MongoDB.Driver.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\Snappier.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Buffers.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Memory.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Security.AccessControl.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.csproj.AssemblyReference.cache
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.MainApp.resources
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.Properties.Resources.resources
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.UpdateAndDeleteTeam.resources
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.csproj.GenerateResource.cache
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.csproj.CoreCompileInputs.cache
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.csproj.CopyComplete
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.exe
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.pdb
+C:\Users\סער\Desktop\Mongo Project\Football_Managment\obj\Debug\Football_Managment.exe.config
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\mongocrypt.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Football_Managment.exe.config
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Football_Managment.exe
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Football_Managment.pdb
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\AWSSDK.Core.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\AWSSDK.SecurityToken.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\DnsClient.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Microsoft.Win32.Registry.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\MongoDB.Bson.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\MongoDB.Driver.Core.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\MongoDB.Driver.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\SharpCompress.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Snappier.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Buffers.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Memory.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Numerics.Vectors.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Security.AccessControl.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Security.Principal.Windows.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\ZstdSharp.dll
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\AWSSDK.Core.pdb
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\AWSSDK.Core.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\AWSSDK.SecurityToken.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\DnsClient.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Microsoft.Win32.Registry.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\MongoDB.Bson.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\MongoDB.Driver.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\MongoDB.Driver.Core.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\Snappier.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Buffers.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Memory.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Numerics.Vectors.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Security.AccessControl.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Security.Principal.Windows.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.csproj.AssemblyReference.cache
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.csproj.SuggestedBindingRedirects.cache
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.exe.config
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.MainApp.resources
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.Properties.Resources.resources
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.UpdateAndDeleteTeam.resources
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.csproj.GenerateResource.cache
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.csproj.CoreCompileInputs.cache
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.csproj.CopyComplete
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.exe
+C:\finalProject_mongo_last\Football_Managment\Football_Managment\obj\Debug\Football_Managment.pdb
